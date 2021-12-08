@@ -1,4 +1,4 @@
-This is a tool I developped quickly, which allows users to visualize class availability by day of the week for a given program at polymtl.
+This is a tool I developed quickly, which allows users to visualize class availability by day of the week for a given program at polymtl.
 The schedule building tools available on dossier-etudiant are not currently capable of doing this.
 There is also currently no way to filter on a per-day basis when checking for classes using the polymtl.ca website.
 This tool circumvents this issue by automatically acquiring all the classes for a given program and allowing you to filter based on day of the week.
