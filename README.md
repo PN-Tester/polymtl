@@ -14,9 +14,10 @@ Enjoy!
 
 INSTALLATION :
 
-1) git clone the repo and cd into the new directory
-2) pip3 install -r requirements.txt 
-3) python3 polyScrape.py 
+1) git clone https://github.com/PN-Tester/polymtl
+2) cd polymtl
+3) pip3 install -r requirements.txt 
+4) python3 polyScrape.py 
 
 INSTALL + USAGE :
 <img src="https://raw.githubusercontent.com/PN-Tester/polymtl/main/recording.svg">
