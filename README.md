@@ -19,5 +19,4 @@ INSTALLATION :
 3) python3 polyScrape.py 
 
 INSTALL + USAGE :
-![Alt text](https://raw.githubusercontent.com/PN-Tester/polymtl/main/recording.svg)
 <img src="https://raw.githubusercontent.com/PN-Tester/polymtl/main/recording.svg">
