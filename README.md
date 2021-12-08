@@ -11,3 +11,13 @@ building solutions mentioned in the forum, I have decided to post it here.
 
 This wont be maintained! Feel free to modify it. 
 Enjoy!
+
+INSTALLATION :
+
+1) git clone the repo and cd into the new directory
+2) pip3 install -r requirements.txt 
+3) python3 polyScrape.py 
+
+INSTALL + USAGE :
+![Alt text](https://raw.githubusercontent.com/PN-Tester/polymtl/main/recording.svg)
+<img src="https://raw.githubusercontent.com/PN-Tester/polymtl/main/recording.svg">
